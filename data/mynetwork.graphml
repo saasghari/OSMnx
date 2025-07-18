@@ -3960,7 +3960,7 @@
     <edge source="53064330" target="53119160" id="0">
       <data key="d9">[415876504, 25532876, 472982278, 1155703015]</data>
       <data key="d10">secondary</data>
-      <data key="d16">['2', '3']</data>
+      <data key="d16">['3', '2']</data>
       <data key="d11">Grand Avenue</data>
       <data key="d12">False</data>
       <data key="d13">True</data>
@@ -4172,7 +4172,7 @@
     <edge source="53073691" target="53073689" id="0">
       <data key="d9">[6345240, 684851049]</data>
       <data key="d10">residential</data>
-      <data key="d16">['2', '1']</data>
+      <data key="d16">['1', '2']</data>
       <data key="d11">Highland Way</data>
       <data key="d12">True</data>
       <data key="d13">False</data>
@@ -5532,7 +5532,7 @@
     <edge source="53088882" target="4606504193" id="0">
       <data key="d9">[6346890, 6350831]</data>
       <data key="d10">residential</data>
-      <data key="d11">['Sotelo Avenue', 'Glen Alpine Road']</data>
+      <data key="d11">['Glen Alpine Road', 'Sotelo Avenue']</data>
       <data key="d12">False</data>
       <data key="d13">[False, True]</data>
       <data key="d14">296.1115865112823</data>
@@ -7442,7 +7442,7 @@
     <edge source="53119160" target="53064330" id="0">
       <data key="d9">[415876504, 25532876, 472982278, 1155703015]</data>
       <data key="d10">secondary</data>
-      <data key="d16">['2', '3']</data>
+      <data key="d16">['3', '2']</data>
       <data key="d11">Grand Avenue</data>
       <data key="d12">False</data>
       <data key="d13">False</data>
@@ -10164,7 +10164,7 @@
     <edge source="4606504193" target="53088882" id="0">
       <data key="d9">[6346890, 6350831]</data>
       <data key="d10">residential</data>
-      <data key="d11">['Sotelo Avenue', 'Glen Alpine Road']</data>
+      <data key="d11">['Glen Alpine Road', 'Sotelo Avenue']</data>
       <data key="d12">False</data>
       <data key="d13">[False, True]</data>
       <data key="d14">296.1115865112823</data>
@@ -10457,7 +10457,7 @@
       <data key="d14">128.2460794337176</data>
       <data key="d15">LINESTRING (-122.2272582 37.8301227, -122.2274145 37.8302027, -122.2275002 37.8303056, -122.2275378 37.8304101, -122.2275265 37.8305533, -122.2274654 37.8306326, -122.2274128 37.8306571, -122.2273422 37.8306523, -122.2272799 37.8306122, -122.2272063 37.8305317, -122.2270829 37.8304494, -122.2269933 37.830414, -122.2269118 37.8304106)</data>
     </edge>
-    <data key="d0">2025-07-10 12:30:21</data>
+    <data key="d0">2025-07-11 11:09:05</data>
     <data key="d1">OSMnx 2.0.5</data>
     <data key="d2">epsg:4326</data>
     <data key="d3">True</data>
